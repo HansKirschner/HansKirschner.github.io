@@ -14,7 +14,7 @@ Besides research, I am a proud dad and music enthusiast. I studied music on a Un
 
 - **[Feb. 2024]** [Die Welt](https://www.welt.de/gesundheit/plus250141454/Lernen-Kognitive-Funktionstrainings-die-helfen-Denkprozesse-positiv-zu-beeinflussen.html) featured our work on inflexible learning dynamics in depression and schizophrenia
 
-## Preprints
+## Preprints and Preregistrations
 
 - <strong>Methamphetamine-induced adaptation of learning rate dynamics depend on baseline performance</strong>
 <br><strong>Kirschner, H</strong>, Molla, H. M.,Nassar, M. R.,de Wit, H., & Ullsperger, M.
@@ -72,10 +72,12 @@ Besides research, I am a proud dad and music enthusiast. I studied music on a Un
 <br>[[PDF](assets/files/Kirschner2021.pdf)]
 
 - <strong>Soothing Your Heart and Feeling Connected: A New Experimental Paradigm to Study the Benefits of Self-Compassion.</strong>
-<br><strong>Kirschner, H.</strong>, Kuyken, W., Wright, K., Roberts, H., Brejcha, C., & Karl, A. (2019). Soothing Your<br><em><strong>Clinical Psychological Science</strong></em>
+<br><strong>Kirschner, H.</strong>, Kuyken, W., Wright, K., Roberts, H., Brejcha, C., & Karl, A. (2019). Soothing Your
+<br><em><strong>Clinical Psychological Science</strong></em>
 <br>[[PDF](assets/files/Kirschner2019.pdf)]
 
 - <strong>Psychophsyiological reactivity during uncertainty and ambiguity processing in high and low worriers.</strong>
 <br><strong>Kirschner, H.</strong>, Hilbert, K., Hoyer, J., Lueken, U., & Beesdo-Baum, K. (2016). 
-Psychophsyiological<br><em><strong>Journal of Behavior Therapy and Experimental Psychiatry</strong></em>
+Psychophsyiological
+<br><em><strong>Journal of Behavior Therapy and Experimental Psychiatry</strong></em>
 <br>[[PDF](assets/files/Kirschner2016.pdf)]
