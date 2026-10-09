@@ -35,13 +35,20 @@
     <link rel="stylesheet" href="./assets/css/publications.css">
     <style>
   header .image.avatar {
-    width: 200px;
+    width: 240px;
     max-width: 100%;
+    aspect-ratio: 1 / 1;
+    border-radius: 50%;
+    overflow: hidden;
   }
 
   header .image.avatar img {
+    display: block;
     width: 100%;
-    height: auto;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 0;
   }
 </style>
 
